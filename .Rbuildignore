@@ -14,7 +14,6 @@
 ^codemeta\.json$
 ^docs$
 ^pkgdown$
-.ropensci-staff
 ^\.hooks$
 ^inst/precommit$
 ^inst/WORDLIST$
